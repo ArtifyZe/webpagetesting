@@ -1,0 +1,105 @@
+body {
+    font-family: "Roboto", sans-seris;
+    background-image: url('spawn.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+#menu {
+    height: 40px;
+    width: 900px;
+    background-color: rgb(97, 97, 97);
+    border-radius: 100px;
+    float: right;
+    margin-right: 200px;
+    margin-top: 400px;
+}
+
+#logo {
+    float: left;
+    margin-left: 25px;
+    font-size: 15px;
+}
+
+#logo h1 {
+    color: rgb(17, 0, 255);
+    text-align: center;
+    padding: 10px;
+}
+
+#main {
+    height: 1500px;
+    width: 900px;
+    background-color: rgb(56, 56, 56);
+    float: right;
+    margin-right: 200px;
+}
+
+#novinky {
+    border-radius: 30px;
+    height: 1500px;
+    width: 350px;
+    background-color: rgb(56, 56, 56);
+    float: left;
+    margin-left: 35px;
+}
+
+#ateam {
+    border-radius: 100px;
+    height: 100px;
+    width: 300px;
+    float: right;
+    margin-top: 275px;
+    margin-right: 675px;
+    background-color: rgb(56, 56, 56);
+}
+
+#ateam-vedenie {
+    border-radius: 15px;
+    height: 1100px;
+    width: 450px;
+    float: right;
+    margin-right: 70px;
+    margin-top: 700px;
+    background-color: rgb(117, 117, 117);
+}
+
+#ateam-helper {
+    border-radius: 15px;
+    height: 700px;
+    width: 450px;
+    float: right;
+    margin-right: 560px;
+    margin-top: -1100px;
+    background-color: rgb(117, 117, 117);
+}
+
+#ateam-builder {
+    border-radius: 15px;
+    height: 1100px;
+    width: 450px;
+    float: right;
+    margin-right: 75px;
+    margin-top: -1100px;
+    background-color: rgb(117, 117, 117);
+}
+
+
+#vip {
+    height: 1500px;
+    width: 900px;
+    background-color: rgb(56, 56, 56);
+    float: right;
+    margin-right: 200px;
+}
+
+#editor {
+    border-radius: 100px;
+    height: 100px;
+    width: 400px;
+    float: right;
+    margin-top: 300px;
+    margin-right: 580px;
+    background-color: rgb(117, 117, 117);
+}
