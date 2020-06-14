@@ -1,6 +1,6 @@
 body {
     font-family: "Roboto", sans-seris;
-    background-image: url('spawn.png');
+    background-image: url('../spawn.png');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
