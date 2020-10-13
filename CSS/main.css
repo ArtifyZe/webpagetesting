@@ -12,7 +12,7 @@ body {
 
 #under-header {
 	background-image: url(../images/background.jpg);
-	height: 350px;
+	height: 300px;
 }
 
 #index {
@@ -69,11 +69,6 @@ body {
 	top: 0px;
 	border-bottom-style: ridge;
 	border-color: gray;
-	transition-duration: 0.3s;
-}
-
-.scroll-header:hover {
-	height: 80px;
 }
 
 .button {
