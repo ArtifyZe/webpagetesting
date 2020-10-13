@@ -1,0 +1,87 @@
+body {
+	margin: 0px;
+	padding: 0px;
+}
+
+#header {
+	background-color: white;
+	height: 75px;
+	position: relative;
+	top: 0px;
+}
+
+#under-header {
+	background-image: url(../images/background.jpg);
+	height: 350px;
+}
+
+#index {
+	background-color: rgb(232, 255, 255);
+	position: relative;
+	padding: 100px;
+	height: 400px;
+}
+	
+#footer {
+	background-color: black;
+	height: 75px;
+	margin-bottom: 0px;
+	position: relative;
+	bottom: 0px;
+}
+
+.index-logo {
+	padding: 8px 30px;
+}
+
+.index-nadpis {
+	color: rgb(0, 85, 255);
+	font-size: 30px;
+}
+
+.index-nadpis2 {
+	color: rgb(0, 128, 255);
+	font-size: 20px;
+	position: relative;
+	top: 5px;
+}
+
+.index-developing {
+	position: relative;
+	top: 150px;
+	color: red;
+	font-size: 45px;
+}
+
+.scroll-header {
+	background-color: white;
+	height: 75px;
+	width: 100%;
+	position: fixed;
+	top: 0px;
+	border-bottom-style: ridge;
+	border-color: gray;
+	transition-duration: 0.3s; 
+}
+
+.scroll-header:hover {
+	height: 85px;
+	top: 10px;
+}
+
+.button {
+	color: rgb(255, 128, 128);
+	padding: 10px 8px;
+	margin-right: 80px;
+	margin-top: 13px;
+	float: right;
+	cursor: pointer;
+	transition-duration: 0.5s; 
+	font-size: 23px;
+}
+
+.button:hover {
+	color: red;
+	font-size: 25px;
+	position: relative;
+}
