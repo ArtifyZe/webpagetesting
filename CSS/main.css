@@ -32,6 +32,14 @@ body {
 
 .index-logo {
 	padding: 8px 30px;
+	height: 60px;
+	width: 60px;
+	transition-duration: 0.5s;
+}
+
+.index-logo:hover {
+	height: 65px;
+	width: 65px;
 }
 
 .index-nadpis {
@@ -61,12 +69,11 @@ body {
 	top: 0px;
 	border-bottom-style: ridge;
 	border-color: gray;
-	transition-duration: 0.3s; 
+	transition-duration: 0.3s;
 }
 
 .scroll-header:hover {
-	height: 85px;
-	top: 10px;
+	height: 80px;
 }
 
 .button {
