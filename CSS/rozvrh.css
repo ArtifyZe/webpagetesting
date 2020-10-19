@@ -1,0 +1,8 @@
+#rozvrh {
+  border-radius: 15px;
+  background-image: url(../images/header-footer.png);
+  position: relative;
+  padding: 100px;
+  height: 400px;
+  width: 50%;
+}

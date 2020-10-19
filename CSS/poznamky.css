@@ -1,0 +1,27 @@
+#poznamky {
+  border-radius: 15px;
+  background-image: url(../images/header-footer.png);
+  position: relative;
+  padding: 100px;
+  height: 400px;
+  width: 50%;
+}
+
+.poznamky-text {
+  color: rgb(0, 178, 255);
+  font-size: 20px;
+}
+
+.poznamky-text2 {
+  color: rgb(0, 216, 255);
+  font-size: 17px;
+}
+
+.poznamky-stiahnut {
+  color: white;
+  transition-duration: 0.6s;
+}
+
+.poznamky-stiahnut:hover {
+  color: rgb(0, 251, 255);
+}
