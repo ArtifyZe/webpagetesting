@@ -26,3 +26,9 @@ body {
   border-style: ridge;
   border-color: rgb(0, 217, 255);
 }
+
+@media only screen and (max-width: 600px) {
+  #body {
+    height: 30%;
+  }
+}
