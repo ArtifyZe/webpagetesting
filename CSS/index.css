@@ -5,6 +5,7 @@
 }
 
 .info-nadpis {
+  font-weight: bold;
   font-size: 30px;
   color: white;
 }
@@ -12,4 +13,30 @@
 .info-text {
   font-size: 20px;
   color: white;
+}
+
+.image-panel {
+  width: 60%;
+  border-style: ridge;
+}
+
+hr {
+  width: 80%;
+  height: 3px;
+  background-color: white;
+}
+
+.najnovsie-video-nadpis {
+  font-size: 30px;
+  color: white;
+  font-weight: bold;
+}
+
+.najnovsie-video {
+  border-style: ridge;
+}
+
+.pozor {
+  color: red;
+  font-size: 22px;
 }
