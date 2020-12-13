@@ -1,0 +1,28 @@
+body {
+  background-image: url(../images/body.png);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+#header {
+  top: 0px;
+  position: fixed;
+  left: 0px;
+  right: 0px;
+  background-color: rgb(66, 66, 66);
+  height: 80px;
+  width: 100%;
+  border-bottom-style: ridge;
+  border-color: rgb(0, 217, 255);
+}
+
+#body {
+  margin-top: 300px;
+  width: 80%;
+  height: 125%;
+  background-color: rgb(66, 66, 66);
+  border-radius: 50px;
+  border-style: ridge;
+  border-color: rgb(0, 217, 255);
+}
