@@ -1,6 +1,6 @@
 body {
     font-family: "Roboto", sans-seris;
-    background-image: url(images/MagmaPixel.jpg);
+    background-image: url(/images/MagmaPixel.jpg);
     background-attachment: fixed;
     background-size: 100% 100%;
 }
