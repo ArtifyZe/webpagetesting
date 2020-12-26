@@ -3,7 +3,6 @@ body {
 }
 
 #header {
-    float: center;
     margin-top: 250px;
     background-color: black;
     width: 70%;
@@ -11,14 +10,12 @@ body {
 }
 
 #body {
-    float: center;
     background-color: green;
     width: 70%;
     height: 100%;
 }
 
 #footer {
-    float: center;
     background-color: aqua;
     width: 70%;
     height: 10%;
