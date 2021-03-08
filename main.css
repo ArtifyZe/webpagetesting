@@ -20,8 +20,8 @@ body {
     margin-top: 25px;
 }
 
-#demo {
-    color: red;
+.countdown {
+    color: rgb(255, 0, 0);
     font-size: 33px;
 }
 
