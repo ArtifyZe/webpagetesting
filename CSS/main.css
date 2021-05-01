@@ -75,21 +75,9 @@ li span {
         background-size: 50% 100%;
     }
     
-    .logo-image {
-        width: 225px;
-        height: 200px;
-    }
-
-    .text {
-        font-size: 19px;
-    }
-
-    #text {
-        margin-top: 75px;
-    }
-
-    #discord {
-        margin-top: 15px;
+    .container {
+        margin-top: 500px;
+        width: 700px;
     }
 }
 
@@ -105,8 +93,13 @@ li span {
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) {
 
-    .example {
-        font-size: 1;
+    body {
+        background-size: 110% 105%;
+    }
+    
+    .container {
+        margin-top: 400px;
+        width: 600px;
     }
 }
 
