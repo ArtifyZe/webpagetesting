@@ -1,0 +1,142 @@
+body {
+    font-family: "Roboto", sans-seris;
+    background-image: url(images/MagmaPixel.jpg);
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+#menu {
+    height: 70px;
+    width: auto;
+}
+
+#ips {
+    border-left-style: ridge;
+    border-right-style: ridge;
+    border-top-style: ridge;
+    border-bottom-style: ridge;
+    background-color: rgb(182, 182, 182);
+    margin-top: 500px;
+    margin-left: 125px;
+    width: 250px;
+    height: 300px;
+}
+
+#news {
+    border-left-style: ridge;
+    border-right-style: ridge;
+    border-top-style: ridge;
+    border-bottom-style: ridge;
+    background-color: rgb(182, 182, 182);
+    margin-left: 125px;
+    width: 250px;
+    height: 800px;
+}
+
+#main-index {
+    border-left-style: ridge;
+    border-right-style: ridge;
+    border-top-style: ridge;
+    border-bottom-style: ridge;
+    background-color: rgb(182, 182, 182);
+    margin-top: -1112px;
+    margin-right: 150px;
+    float: right;
+    width: 900px;
+    height: 400px;
+}
+
+#main-pravidla {
+    border-left-style: ridge;
+    border-right-style: ridge;
+    border-top-style: ridge;
+    border-bottom-style: ridge;
+    background-color: rgb(182, 182, 182);
+    margin-top: -1112px;
+    margin-right: 125px;
+    float: right;
+    width: 950px;
+    height: 2000px;
+}
+
+#main-adminteam {
+    border-left-style: ridge;
+    border-right-style: ridge;
+    border-top-style: ridge;
+    border-bottom-style: ridge;
+    background-color: rgb(182, 182, 182);
+    margin-top: -1112px;
+    margin-right: 125px;
+    float: right;
+    width: 950px;
+    height: 3050px;
+}
+
+#main-nabor {
+    border-left-style: ridge;
+    border-right-style: ridge;
+    border-top-style: ridge;
+    border-bottom-style: ridge;
+    background-color: rgb(182, 182, 182);
+    margin-top: -1112px;
+    margin-right: 125px;
+    float: right;
+    width: 950px;
+    height: 625px;
+}
+
+#developer {
+    border-left-style: ridge;
+    border-right-style: ridge;
+    border-top-style: ridge;
+    border-bottom-style: ridge;
+    background-color: rgb(182, 182, 182);
+    margin-top: 300px;
+    width: auto;
+    height: 45px;
+}
+
+.button {
+    border: none;
+    color: rgb(216, 216, 216);
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.button1 {
+    font-size: 13px;
+    padding: 6px 12px;
+    border-radius: 100px;
+    color: black;
+    border: 2px solid #ff9f9f;
+  }
+  
+.button1:hover {
+    font-size: 15px;
+    padding: 7px 14px;
+    border-radius: 100px;
+    background-color: white;
+    color: red;
+    border: 2px solid #ff0000;
+  }
+
+.button-more {
+    display: inline-block;
+    cursor: pointer;
+    border-radius: 25px;
+    border-style: ridge;
+    padding: 3px 6px;
+  }
+  
+.button-more:hover {
+    display: inline-block;
+    cursor: pointer;
+    border-radius: 25px;
+    background-color: white;
+    border-style: ridge;
+    padding: 3px 6px;
+  }
