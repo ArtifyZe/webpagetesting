@@ -1,0 +1,313 @@
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: rgba(8, 0, 46, 0.973);
+    margin: 0;
+    padding: 0;
+}
+
+#body {
+    width: 1000px;
+    background-color: rgb(235, 235, 235);
+}
+
+#header {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    height: auto;
+    border-bottom-style: ridge;
+    border-color: rgba(153, 153, 153, 0.61);
+    background-color: white;
+}
+
+#button {
+    color: black;
+    background-color: white;
+    transition-duration: 0.1s;
+    font-weight: bold;
+    font-size: 14px;
+    padding: 12px 17px;
+    cursor: pointer;
+    border: none;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+#button:hover {
+    color: red;
+    border-bottom-style: ridge;
+    border-color: red;
+}
+
+#ad {
+    margin-top: 25px;
+}
+
+#ad-button {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: 300px;
+    height: 40px;
+    border-radius: 50px;
+    border: none;
+    background-color: rgb(255, 68, 68);
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+#cz-dub {
+    margin-top: 15px;
+}
+
+#cz-dub-button {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: 300px;
+    height: 40px;
+    border-radius: 50px;
+    border: none;
+    background-color: rgb(0, 110, 255);
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+#bodynews {
+    margin-top: 150px;
+    height: 250px;
+    width: 750px;
+    text-align: left;
+    background-color: white;
+    box-shadow: 7px 7px 4px rgba(202, 202, 202, 0.562);
+}
+
+#newsandmore {
+    position: relative;
+    top: 10px;
+    margin-left: 15px;
+}
+
+#bodydates {
+    margin-top: 50px;
+    height: 250px;
+    width: 750px;
+    text-align: left;
+    background-color: white;
+    box-shadow: 7px 7px 4px rgba(202, 202, 202, 0.562);
+}
+
+#releasedates {
+    position: relative;
+    top: 10px;
+    margin-left: 15px;
+}
+
+#official-partner {
+    margin-top: 150px;
+}
+
+.official-partner {
+    height: 125px;
+    width: 650px;
+    box-shadow: 7px 7px 4px rgba(202, 202, 202, 0.562);
+}
+
+#footer {
+    margin-top: 25px;
+    height: 100px;
+    background-color: white;
+}
+
+#foot {
+    position: relative;
+    top: 10px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+#foottext {
+    margin-top: 10px;
+}
+
+.h {
+    font-size: 19px;
+    font-weight: bold;
+}
+
+.t {
+    font-size: 15px;
+    position: relative;
+    top: 3px;
+    left: 15px;
+}
+
+.ig-logo {
+    width: 50px;
+    height: 50px;
+}
+
+.now {
+    color: red;
+}
+
+
+
+
+
+
+
+
+#videos {
+    margin-top: 150px;
+    max-width: 750px;
+}
+
+#block {
+    margin-top: 75px;
+    width: 300px;
+    height: 160px;
+    max-width: 300px;
+}
+
+.block-img {
+    margin-top: 5px;
+    width: 100%;
+    height: 100%;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+#block-name {
+    font-size: 17px;
+    font-weight: bold;
+    height: auto;
+    width: auto;
+    background-color: white;
+}
+
+
+
+
+
+
+
+
+#video {
+    margin-top: 150px;
+    max-width: 650px;
+    text-align: left;
+}
+
+video {
+    width: 650px;
+    height: 400px;
+}
+
+#video-name {
+    font-weight: bold;
+    font-size: 18px;
+    margin-top: 5px;
+}
+
+
+
+
+
+
+
+
+
+table {
+    text-align: center;
+    background-color: white;
+    color: black;
+    box-shadow: 7px 7px 4px rgba(202, 202, 202, 0.562);
+}
+
+#table {
+    margin-top: 150px;
+    max-width: 875px;
+}
+
+td {
+    height: 30px;
+    font-size: 13px;
+}
+
+#number {
+    width: 75px;
+    height: 35px;
+    font-weight: bold;
+}
+
+#name {
+    width: 150px;
+    height: 35px;
+    font-weight: bold;
+}
+
+#namecz {
+    width: 160px;
+    height: 35px;
+    font-weight: bold;
+}
+
+#airdateworld {
+    width: 175px;
+    height: 35px;
+    font-weight: bold;
+}
+
+#airdatefrance {
+    width: 150px;
+    height: 35px;
+    font-weight: bold;
+}
+
+#airdateczech {
+    width: 140px;
+    height: 35px;
+    font-weight: bold;
+}
+
+#wiki-link {
+    margin-top: 5px;
+    text-align: left;
+    font-size: 14px;
+}
+
+.aired {
+    background-color: rgb(96, 255, 96);
+}
+
+.notaired {
+    background-color: rgb(255, 83, 83);
+}
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 1200px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media (min-width: 992px) and (max-width: 1199px) {
+
+}
+
+/* Small Devices, Tablets */
+@media (min-width: 768px) and (max-width: 991px) {
+
+}
+
+/* Extra Small Devices, Phones */ 
+@media (max-width: 767px) {
+
+}
